@@ -1,0 +1,2 @@
+rootProject.name='Legend of Bounca'
+include ':app'
